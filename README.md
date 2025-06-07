@@ -104,15 +104,3 @@ The Train Booking System Backend Project is a Java based application designed to
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes. Ensure your code adheres to the coding standards and includes relevant tests.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any queries or issues, please contact [ankushsinghgandhi@gmail.com].
-
----
-
-Thank you for using the IRCTC Backend Project! Enjoy your train booking experience.
-# Train-Booking-System

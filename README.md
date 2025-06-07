@@ -37,7 +37,7 @@ The Train Booking System Backend Project is a Java based application designed to
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/AnkushSinghGandhi/irctc_backend_java.git
+    https://github.com/KulkarniShrinivas/Train-Booking-System
     ```
 
 2. **Navigate to the project directory**:
